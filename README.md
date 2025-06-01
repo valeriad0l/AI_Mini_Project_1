@@ -8,7 +8,7 @@ The project is a simple ML app that classifies grayscale images of handwritten d
 - **Seaborn**
 - **scikit-learn**
 
-## How it works
+## How It Works
 - Loads and explores the digits dataset  
 - Normalizes input data for training  
 - Trains a Logistic Regression classifier  
